@@ -35,12 +35,14 @@
 
 
 - Steps taken to include model performance
-	- The third layer was added after the first attempt 
+	- The third layer was added after the first attempt
+![alt text](https://github.com/deangelica23/Deep-Learning-Challenge/blob/main/Layers%20addition.png)
 	- ASK_AMT was binned for second attempt
+![alt text](https://github.com/deangelica23/Deep-Learning-Challenge/blob/main/Bins%20addition.png)
 	- Epoch number was increased for third attempt to 400 
-
+![alt text](https://github.com/deangelica23/Deep-Learning-Challenge/blob/main/adding%20epochs%20.png)
 ## Summary ##
-- The highest validation achieved was at 72.25% which is not enough to indicate exceptional predictive power. 
+- The highest validation achieved was at 72.58% which is not enough to indicate exceptional predictive power. 
 - Recommendations
 	- Collecting more data or enriching the dataset with other external information like industry benchmarks. 
 	- Engineering features from the existing data to identify more relationships, and most important predictors
