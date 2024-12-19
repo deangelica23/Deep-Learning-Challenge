@@ -8,7 +8,7 @@
 ### Data Preprocessing ###
 
 - Target Variable: IS_SUCCESSFULL
-	-IS_SUCCESSFUL represents whether funding to an organization was used effectively
+	- IS_SUCCESSFUL represents whether funding to an organization was used effectively
 
 
 - Features: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS INCOME_AMT, ASK_AMT_binned
